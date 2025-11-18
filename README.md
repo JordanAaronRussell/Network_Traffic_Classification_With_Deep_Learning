@@ -115,7 +115,7 @@ Performing hyperparameter tuning (learning rate, batch size, dropout)
 
 Building a live inference demo or API
 
-🙋 About Me
+## About Me
 
 I’m a Data Science graduate focused on machine learning and model development.
 This project forms part of my growing machine learning portfolio.
